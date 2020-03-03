@@ -1,0 +1,6 @@
+Class Dog << ActiveRecord::Base
+
+
+
+
+end
